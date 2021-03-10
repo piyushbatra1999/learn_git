@@ -6,3 +6,10 @@
 
 # Dev added this
 print('i am developer of this application')
+
+
+#feature
+def feature():
+    pass
+
+
