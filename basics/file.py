@@ -11,11 +11,13 @@ print('i am developer of this application')
 #feature
 def feature():
     pass
+def feature2():
+    pass
+
 #feature
 #feature
 def dev_feature():
     print('this is a differnt feature that dev added')
 def dev_feature2():
     pass
-
 
