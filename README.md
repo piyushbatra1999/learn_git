@@ -43,3 +43,25 @@ Add ssh key to local ssh agent:
 ssh-add ~/.ssh/id_rsa
 ```
 Done.
+
+# Basics
+
+- clone
+- add
+- commit
+- status
+- reset
+- revert
+- checkout
+- push
+- pull
+- diff
+- merge (to demonstrate: master and features)
+
+# Workflow
+- master (main branch to merge all the features and issues)
+  - feature branches
+- qa ( perform tests before merge into staging)
+- prod (Real production workload)
+  - hotfixes ( quick fixes on production code)
+- staging ( - duplicate of prod for blue/green deployment)
